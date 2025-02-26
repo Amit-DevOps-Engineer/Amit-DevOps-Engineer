@@ -1,7 +1,6 @@
 ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/75d7cc08-cda0-4c0b-bbe2-9b281108891b)
 
 # 👋 Hi, I'm Amit Kulkarni 
- ** AWS | Azure | Kubernetes | Terraform | CI/CD | Automation | Jenkins | Shell and Python Scripting**  
 
 I am a **DevOps Engineer with 3+ years of experience**, passionate about emerging technologies. I am excited to apply my knowledge and skills to help organizations deliver and deploy **high-quality software products efficiently and securely**.  
 
