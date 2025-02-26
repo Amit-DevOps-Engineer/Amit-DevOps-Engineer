@@ -7,7 +7,6 @@ I am a **DevOps Engineer with 3+ years of experience**, passionate about emergin
 
 My expertise lies in **optimizing infrastructure, enhancing deployment pipelines, securing resources and ensuring seamless operations** for modern, cloud-native applications.  
 
-
 ---
 
 ###  My Expertise  
@@ -52,19 +51,6 @@ My expertise lies in **optimizing infrastructure, enhancing deployment pipelines
 
 
 ---
-
-##  DevOps Methodology  
-✔ **DevOps Culture:** Continuous Integration, Continuous Delivery, Continuous Deployment  
-✔ **Git Workflow:** GitHub Flow  
-✔ **Code Quality:** Code Review  
-
----
-
-## 🤝 Let's Connect!  
-
-I would love the opportunity to **network, collaborate, and contribute**. Feel free to **DM me on LinkedIn**.  
-I look forward to connecting with like-minded professionals in this exciting tech world! 
-
 
 
 ![github-gif-img](https://github.com/user-attachments/assets/3973de1b-d817-4145-99f8-47f759661e1f)
