@@ -1,4 +1,5 @@
-![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/75d7cc08-cda0-4c0b-bbe2-9b281108891b)
+![Black Technology LinkedIn Banner1](https://github.com/user-attachments/assets/fe28907f-8be0-4aab-895b-efb809388ae0)
+
 
 # 👋 Hi, I'm Amit Kulkarni 
 
